@@ -1,4 +1,4 @@
-# Formação GE Programação turma E
+# Formação GE Programação turma H
 ## Participantes 
 
 Professores e Professoras do GE de Programação e Pensamento Computacional do Ensino Médio. 
